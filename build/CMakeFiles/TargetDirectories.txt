@@ -1,0 +1,3 @@
+/home/quat/Advanced_C/build/CMakeFiles/Advanced_C.dir
+/home/quat/Advanced_C/build/CMakeFiles/edit_cache.dir
+/home/quat/Advanced_C/build/CMakeFiles/rebuild_cache.dir

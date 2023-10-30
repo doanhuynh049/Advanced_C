@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.c.dir/bitManupulator/ConvertingBinarytoDecimal.c.o -o main.c 
